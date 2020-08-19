@@ -17,7 +17,7 @@ Dr. Hyesoon Kim received her Ph.D. degree in electrical and computer engineering
 Surveying how computational biology is helpful to handle Covid-19 pandemic. Creating different simulations and viewing different source code.
 
 
-[My Final Report](/Users/niablake/Desktop/finalreport.docx)
+[My Final Report](/Users/niablake/Desktop/finalreport.pdf)
 
 ## My Blog
 
